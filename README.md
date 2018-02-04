@@ -1,6 +1,6 @@
 ## List of topics
 
-See lecture recording [here](https://echo360.org/section/016f06ae-c6c5-4d85-9833-143f7eef6981/home).
+See lecture recordings [here](https://echo360.org/section/016f06ae-c6c5-4d85-9833-143f7eef6981/home).
 
 * Jan 23
     * Welcome to CS 131
