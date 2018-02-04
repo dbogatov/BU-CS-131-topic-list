@@ -9,11 +9,12 @@ See lecture recording [here](https://echo360.org/section/016f06ae-c6c5-4d85-9833
         * Evaluating compound propositions
         * Conditional statements
         * Logical equivalence
+        * Laws of propositional logic
 
 * Jan 25
-        * Laws of propositional logic
-        
+    * Boolean algebra
+        * Intro
+        * Boolean functions
+        * CNF / DNF
 
-* Topic 1
-* Topic 2
-    * Subtopic
+ 
