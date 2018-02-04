@@ -4,7 +4,7 @@ See lecture recording [here](https://echo360.org/section/016f06ae-c6c5-4d85-9833
 
 * Jan 23
     * Welcome to CS 131
-    * Propositional logic (chapter 1 in zyBooks)
+    * Propositional logic
         * Propositions and logical equivalence
         * Evaluating compound propositions
         * Conditional statements
@@ -18,3 +18,6 @@ See lecture recording [here](https://echo360.org/section/016f06ae-c6c5-4d85-9833
         * CNF / DNF
 
  
+* Jan 30
+    * Functional completeness
+    * Boolean satisfiability
