@@ -19,5 +19,11 @@ See lecture recording [here](https://echo360.org/section/016f06ae-c6c5-4d85-9833
 
  
 * Jan 30
-    * Functional completeness
-    * Boolean satisfiability
+    * Boolean algebra
+        * Functional completeness
+        * Boolean satisfiability
+
+* Feb 1
+    * Predicates and first order logic
+        * Predicates and quantifiers
+        * Quantified statements
