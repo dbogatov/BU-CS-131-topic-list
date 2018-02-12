@@ -29,3 +29,18 @@ but they can be helpful is you must miss a class.
     * Predicates and first order logic
         * Predicates and quantifiers
         * Quantified statements
+
+* Feb 6
+    * Predicates and first order logic
+        * Nested quantifiers (two chapters)
+        * Rules of inference with quantifiers
+
+* Feb 8
+    * Sets
+        * Sets and subsets
+        * Sets of sets
+        * Union and intersection
+        * More set operations
+        * Set identities
+        * Cartesian products
+        * Partitions
