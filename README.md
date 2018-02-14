@@ -1,6 +1,6 @@
 ## CS 131 Spring 2018 - List of topics
 
-See [lecture recordings here](https://echo360.org/section/016f06ae-c6c5-4d85-9833-143f7eef6981/home). 
+See [lecture recordings here](https://echo360.org/section/801af970-0582-439d-b5cd-74097af867e0/public). 
 Warning: they are low-resolution and not great audio quality, so they do not substitute for coming to lecture,
 but they can be helpful is you must miss a class.
 
