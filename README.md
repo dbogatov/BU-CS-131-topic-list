@@ -27,3 +27,6 @@ See lecture recording [here](https://echo360.org/section/016f06ae-c6c5-4d85-9833
     * Predicates and first order logic
         * Predicates and quantifiers
         * Quantified statements
+
+* Feb 13
+	* [See lecture notes](./lecture-notes/02-13-proof.pdf)
