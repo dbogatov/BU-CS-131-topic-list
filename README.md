@@ -47,3 +47,16 @@ but they can be helpful is you must miss a class.
 
 * Feb 13
 	* [See lecture notes](./lecture-notes/02-13-proof.pdf)
+	* Functions (whole zyBooks chapter)
+
+* Feb 15
+    * Relations (whole zyBooks chapter)
+
+* Feb 20
+    * Monday schedule
+
+* Feb 22
+    * Proofs (whole zyBooks chapter)
+
+* Feb 27
+    * More on proofs
