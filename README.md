@@ -60,3 +60,8 @@ but they can be helpful is you must miss a class.
 
 * Feb 27
     * More on proofs
+        * More on proof by cases
+        * Euclid algoritm
+            * GCD
+            * Theorem about GCD and its proof
+            * Theorem: GCD of two numbers over their GCD is 1 (and its proof)
