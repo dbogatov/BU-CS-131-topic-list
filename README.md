@@ -68,7 +68,7 @@ but they can be helpful is you must miss a class.
 
 * Mar 1
     * Writing GCD formal defintion in a form of conjunction of three statememnts
-    * Theorem: any rational number can be written as x/y s.t. GCD(x,y)=1 (and its proof)
+    * Theorem: any rational number can be written as x over y s.t. GCD(x,y)=1 (and its proof)
     * Applying GCD to rational numbers (hint: multiply by denominators)
     * Proof that square root of 2 is irrational
     * Theorem: any integer greater than 1 is divisible a prime (and its proof)
