@@ -73,3 +73,7 @@ but they can be helpful is you must miss a class.
     * Proof that square root of 2 is irrational
     * Theorem: any integer greater than 1 is divisible a prime (and its proof)
     * Theorem: there are infinitely many primes (and its proof)
+
+* Mar 20
+    * Halting problem
+        * [See lecture notes](./lecture-notes/halting-problem.pdf)
