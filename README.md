@@ -77,3 +77,21 @@ but they can be helpful is you must miss a class.
 * Mar 20
     * Halting problem
         * [See lecture notes](./lecture-notes/halting-problem.pdf)
+
+* Mar 27
+    * Geometric series
+    * Inductive proofs that are not sums
+    * Graphs (some basic definitions)
+    * "All horses are the same color"
+
+* Mar 29
+    * Sum of infinite series (r < 1)
+    * False proofs of horses color
+    * Fiboncci sequence
+    * Analusis of Euclid's algorithm (see [notes](./lecture-notes/euclids-algorithm.pdf))
+
+* April 3
+    * Loop invariants
+        * [Find minimum algorithm](./lecture-notes/find-min.py)
+        * [Euclids algorithm](./lecture-notes/euclid.py)
+    * Pre / post conditions as ways to reason about program correctness
