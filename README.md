@@ -95,3 +95,12 @@ but they can be helpful is you must miss a class.
         * [Find minimum algorithm](./lecture-notes/find-min.py)
         * [Euclids algorithm](./lecture-notes/euclid.py)
     * Pre / post conditions as ways to reason about program correctness
+
+* April 5
+    * Structural induction
+        * General (non-binary) trees
+        * Boolean formulas
+    * Proof via structural induction
+        * In any tree the number of edges is one smaller than the number of nodes
+        * In any formula number of opening and closing patterns matches
+    * [Two recursive algorithms](./lecture-notes/april-5.py)
