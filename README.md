@@ -104,3 +104,32 @@ but they can be helpful is you must miss a class.
         * In any tree the number of edges is one smaller than the number of nodes
         * In any formula number of opening and closing patterns matches
     * [Two recursive algorithms](./lecture-notes/april-5.py)
+
+* April 17 / 19
+    * Binomial coefficients
+    * Relation between inclusion / exclusion and identity
+    * Binomial distribution
+
+* April 20
+    * Binomial coefficients
+    * Pascal's triangle
+    * Binomial recurrence with code
+    * Probability basics: sample spaces, outcomes, events, etc
+
+* April 25
+    * Bernoulli trials and binomial distribution
+    * [Visualization](https://www.youtube.com/watch?v=03tx4v0i7MA)
+    * **Not in the book**
+        * 95% of the binomial distribution lies within $`\sqrt{n}`$ of the average
+        * 99.7% of the binomial distribution lies within $`1.5 \sqrt{n}`$ of the average.
+        * Good visualizers:
+            * [this](https://homepage.divms.uiowa.edu/~mbognar/applets/bin.html)
+            * [this](http://www.wolframalpha.com/widgets/view.jsp?id=78baf4f3a070cc5b9b226664d2ce80ec)
+
+* Thu Apr 27: 
+    * **Not in the book**
+        * If you try to estimate the bias of a coin (for example, in public polling or in Monte Carlo simulation) by doing $`n`$ independent samples, your answer will very likely be within about $`\frac{1}{\sqrt{n}}`$ of the correct answer.
+        So need $`n = 400`$ samples to get to within 5%, $`n = 1112`$ to get within 3%, $`n = 10000`$ to get within 1%.
+    * Conditional probability and independence
+    * Random variables and expectations
+    
